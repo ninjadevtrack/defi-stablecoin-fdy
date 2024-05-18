@@ -9,8 +9,8 @@ This project is meant to be a stablecoin where users can deposit WETH and WBTC i
 ## Quickstart
 
 ```
-git clone https://github.com/cupid20103/stablecoin-foundry.git
-cd stablecoin-foundry
+git clone https://github.com/ninjadevtrack/defi-stablecoin-fdy.git
+cd defi-stablecoin-fdy
 forge build
 ```
 
